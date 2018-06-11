@@ -1,4 +1,4 @@
-# CMSC6950 - Assignment 4 for {your full name}
+# CMSC6950 - Assignment 4 for Hanieh Marvikhorasani
 
 Git is a distributed version control system that was created by
 Linus Torvalds, the creator of the Linux kernel.
@@ -11,3 +11,7 @@ The basic Git workflow consists of the following steps:
 4. Choose an informative commit message. This helps at a later time to find
 specific commits and to understand the intention of the changes.
 5. Continue at step 1
+
+Unlike centralized version control systems, Git users can commit new changes,
+without the need of an internet connection. They can offline and then later
+push batches of commits at once to a server - like GitHub or Bitbucket.
